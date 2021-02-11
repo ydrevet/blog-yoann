@@ -1,0 +1,5 @@
+baseURL = "http://yoanndrevet.com/"
+languageCode = "en-us"
+title = "Yoann’s blog"
+theme = "ananke"
+sectionPagesMenu = "main"
